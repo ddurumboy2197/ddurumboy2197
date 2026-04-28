@@ -1,43 +1,31 @@
 <div align="center">
-  <h1>👋 Hi, I'm <a href="https://github.com/ddurumboy2197">Durumboy</a></h1>
-  <p><em>Backend Developer</em></p>
+
+![DURUMBOY Banner](banner.svg)
+
 </div>
 
 ---
-
-## 💻 Technologies
-
-### Backend & Fullstack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Jinja2](https://img.shields.io/badge/Jinja2-323232?style=for-the-badge&logo=jinja&logoColor=white)
-
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📬 Contact
 
 <div align="center">
-  <a href="https://t.me/durumboyev_d_7"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href=https://www.linkedin.com/in/durumboy-durumboyev-4891533a0/><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ddurumboy2197@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=60&lines=🚀+Exploring+the+Digital+Universe;⚡+Backend+Engineer+from+Xorazm-01)](https://git.io/typing-svg)
+
 </div>
 
+---
+
+## 📊 `SPACE STATS`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=durumboyev07&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04021a,50:1a0a3e,100:04021a&height=100&section=footer&animation=fadeIn" width="100%"/>
+</div>
