@@ -1,0 +1,304 @@
+<svg width="100%" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>DURUMBOY — Backend Developer Profile Banner</title>
+  <desc>Cosmic space-themed profile banner with skills and stats for durumboyev07</desc>
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#1a0a3e"/>
+      <stop offset="60%" stop-color="#0d0520"/>
+      <stop offset="100%" stop-color="#040210"/>
+    </radialGradient>
+    <radialGradient id="nebula1" cx="20%" cy="30%" r="40%">
+      <stop offset="0%" stop-color="#4a0080" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#4a0080" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebula2" cx="80%" cy="70%" r="35%">
+      <stop offset="0%" stop-color="#003080" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#003080" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="nebula3" cx="60%" cy="20%" r="30%">
+      <stop offset="0%" stop-color="#800040" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#800040" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="50%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#f472b6"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bar-py" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c8ff"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="bar-dj" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+    <linearGradient id="bar-pg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <linearGradient id="bar-fl" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="bar-dk" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <filter id="glow-soft">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-strong">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      @keyframes twinkle1 { 0%,100%{opacity:1} 50%{opacity:0.2} }
+      @keyframes twinkle2 { 0%,100%{opacity:0.6} 50%{opacity:1} }
+      @keyframes twinkle3 { 0%,100%{opacity:0.3} 60%{opacity:0.9} }
+      @keyframes pulse { 0%,100%{opacity:0.5} 50%{opacity:1} }
+      @keyframes scan { 0%{transform:translateY(-5px)} 100%{transform:translateY(5px)} }
+      @keyframes orbit { from{transform:rotate(0deg) translateX(18px)} to{transform:rotate(360deg) translateX(18px)} }
+      @keyframes float { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-4px)} }
+      .s1{animation:twinkle1 2.1s ease-in-out infinite}
+      .s2{animation:twinkle2 3.4s ease-in-out infinite}
+      .s3{animation:twinkle3 1.8s ease-in-out infinite}
+      .pulse{animation:pulse 2.5s ease-in-out infinite}
+      .float{animation:float 4s ease-in-out infinite}
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="420" fill="url(#bg)"/>
+  <rect width="900" height="420" fill="url(#nebula1)"/>
+  <rect width="900" height="420" fill="url(#nebula2)"/>
+  <rect width="900" height="420" fill="url(#nebula3)"/>
+
+  <!-- Stars layer 1 (small) -->
+  <g fill="#ffffff">
+    <circle class="s1" cx="45" cy="22" r="1"/>
+    <circle class="s2" cx="120" cy="55" r="0.8"/>
+    <circle class="s3" cx="200" cy="18" r="1.2"/>
+    <circle class="s1" cx="310" cy="40" r="0.7"/>
+    <circle class="s2" cx="430" cy="12" r="1"/>
+    <circle class="s3" cx="520" cy="35" r="0.8"/>
+    <circle class="s1" cx="640" cy="20" r="1.1"/>
+    <circle class="s2" cx="720" cy="48" r="0.9"/>
+    <circle class="s3" cx="810" cy="15" r="1"/>
+    <circle class="s1" cx="870" cy="38" r="0.8"/>
+    <circle class="s2" cx="80" cy="100" r="0.7"/>
+    <circle class="s3" cx="160" cy="380" r="1"/>
+    <circle class="s1" cx="280" cy="395" r="0.8"/>
+    <circle class="s2" cx="400" cy="405" r="1.2"/>
+    <circle class="s3" cx="550" cy="390" r="0.7"/>
+    <circle class="s1" cx="700" cy="400" r="1"/>
+    <circle class="s2" cx="820" cy="380" r="0.9"/>
+    <circle class="s3" cx="880" cy="400" r="1"/>
+    <circle class="s1" cx="30" cy="220" r="0.8"/>
+    <circle class="s2" cx="870" cy="200" r="1"/>
+    <circle class="s3" cx="15" cy="310" r="0.7"/>
+    <circle class="s1" cx="885" cy="140" r="1.1"/>
+    <circle class="s2" cx="470" cy="75" r="0.9"/>
+    <circle class="s3" cx="750" cy="90" r="0.8"/>
+    <circle class="s1" cx="350" cy="380" r="1"/>
+  </g>
+
+  <!-- Stars layer 2 (medium, colored) -->
+  <circle class="s2" cx="600" cy="60" r="1.5" fill="#a78bfa"/>
+  <circle class="s1" cx="100" cy="150" r="1.3" fill="#60a5fa"/>
+  <circle class="s3" cx="780" cy="300" r="1.4" fill="#f472b6"/>
+  <circle class="s2" cx="50" cy="350" r="1.2" fill="#34d399"/>
+  <circle class="s1" cx="840" cy="80" r="1.5" fill="#fbbf24"/>
+
+  <!-- Corner decorations (circuit-style) -->
+  <g opacity="0.4" stroke="#7c3aed" fill="none" stroke-width="1">
+    <path d="M10,10 L10,40 L40,40"/>
+    <path d="M890,10 L890,40 L860,40"/>
+    <path d="M10,410 L10,380 L40,380"/>
+    <path d="M890,410 L890,380 L860,380"/>
+    <circle cx="10" cy="10" r="2" fill="#7c3aed"/>
+    <circle cx="890" cy="10" r="2" fill="#7c3aed"/>
+    <circle cx="10" cy="410" r="2" fill="#7c3aed"/>
+    <circle cx="890" cy="410" r="2" fill="#7c3aed"/>
+  </g>
+
+  <!-- Divider line (left panel / right panel) -->
+  <line x1="480" y1="30" x2="480" y2="390" stroke="url(#lineGrad)" stroke-width="1" opacity="0.5"/>
+
+  <!-- ═══════════════ LEFT PANEL ═══════════════ -->
+
+  <!-- Planet/orb decoration -->
+  <circle cx="100" cy="180" r="38" fill="#1a0a3e" stroke="#7c3aed" stroke-width="1.5" opacity="0.6"/>
+  <circle cx="100" cy="180" r="38" fill="none" stroke="#a78bfa" stroke-width="0.5" opacity="0.4"/>
+  <ellipse cx="100" cy="180" rx="55" ry="10" fill="none" stroke="#60a5fa" stroke-width="1" opacity="0.35" transform="rotate(-15, 100, 180)"/>
+  <circle cx="100" cy="180" r="28" fill="#0d0520" opacity="0.9"/>
+  <circle cx="93" cy="174" r="5" fill="#a78bfa" opacity="0.6"/>
+  <circle cx="107" cy="184" r="3" fill="#60a5fa" opacity="0.5"/>
+
+  <!-- Name -->
+  <text x="230" y="80" text-anchor="middle" font-family="'Courier New', monospace" font-size="46" font-weight="900" fill="url(#titleGrad)" filter="url(#glow-soft)" letter-spacing="6">DURUMBOY</text>
+
+  <!-- Subtitle line -->
+  <rect x="70" y="95" width="320" height="1" fill="url(#lineGrad)" opacity="0.6"/>
+
+  <!-- Role text -->
+  <text x="230" y="122" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#a78bfa" opacity="0.9" letter-spacing="3">// BACKEND DEVELOPER</text>
+
+  <!-- Status chips -->
+  <g transform="translate(75, 140)">
+    <!-- Online chip -->
+    <rect x="0" y="0" width="76" height="22" rx="11" fill="#0a2010" stroke="#34d399" stroke-width="0.8"/>
+    <circle cx="13" cy="11" r="4" fill="#34d399" filter="url(#glow-soft)"/>
+    <text x="24" y="15" font-family="'Courier New', monospace" font-size="9" fill="#34d399" letter-spacing="1">ONLINE</text>
+    <!-- Location chip -->
+    <rect x="84" y="0" width="100" height="22" rx="11" fill="#050a20" stroke="#60a5fa" stroke-width="0.8"/>
+    <text x="94" y="15" font-family="'Courier New', monospace" font-size="9" fill="#60a5fa" letter-spacing="1">Xorazm-01</text>
+    <!-- Lang chip -->
+    <rect x="192" y="0" width="90" height="22" rx="11" fill="#1a0030" stroke="#a78bfa" stroke-width="0.8"/>
+    <text x="202" y="15" font-family="'Courier New', monospace" font-size="9" fill="#a78bfa" letter-spacing="1">PYTHON DEV</text>
+  </g>
+
+  <!-- Code snippet -->
+  <rect x="70" y="178" width="330" height="110" rx="8" fill="#04021a" stroke="#2d1b5e" stroke-width="1"/>
+  <rect x="70" y="178" width="330" height="18" rx="8" fill="#0d0520"/>
+  <rect x="70" y="190" width="330" height="6" fill="#0d0520"/>
+  <circle cx="84" cy="187" r="4" fill="#ef4444" opacity="0.7"/>
+  <circle cx="98" cy="187" r="4" fill="#f59e0b" opacity="0.7"/>
+  <circle cx="112" cy="187" r="4" fill="#34d399" opacity="0.7"/>
+  <text x="220" y="191" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#6b7280">profile.py</text>
+  <text x="82" y="212" font-family="'Courier New', monospace" font-size="10" fill="#a78bfa">class</text>
+  <text x="120" y="212" font-family="'Courier New', monospace" font-size="10" fill="#60a5fa">SpaceEngineer</text>
+  <text x="232" y="212" font-family="'Courier New', monospace" font-size="10" fill="#e2e8f0">:</text>
+  <text x="82" y="228" font-family="'Courier New', monospace" font-size="10" fill="#60a5fa">  name</text>
+  <text x="130" y="228" font-family="'Courier New', monospace" font-size="10" fill="#e2e8f0"> = </text>
+  <text x="150" y="228" font-family="'Courier New', monospace" font-size="10" fill="#34d399">"Durumboy"</text>
+  <text x="82" y="244" font-family="'Courier New', monospace" font-size="10" fill="#60a5fa">  stack</text>
+  <text x="130" y="244" font-family="'Courier New', monospace" font-size="10" fill="#e2e8f0"> = </text>
+  <text x="150" y="244" font-family="'Courier New', monospace" font-size="10" fill="#f472b6">["Python","Django","PostgreSQL"]</text>
+  <text x="82" y="260" font-family="'Courier New', monospace" font-size="10" fill="#60a5fa">  mission</text>
+  <text x="138" y="260" font-family="'Courier New', monospace" font-size="10" fill="#e2e8f0"> = </text>
+  <text x="158" y="260" font-family="'Courier New', monospace" font-size="10" fill="#34d399">"Build. Launch. Repeat. 🚀"</text>
+  <text x="82" y="276" font-family="'Courier New', monospace" font-size="10" fill="#6b7280">  # debugging at 3AM...</text>
+
+  <!-- Tech badges row -->
+  <g transform="translate(70, 308)">
+    <rect x="0" y="0" width="46" height="20" rx="4" fill="#0a1628" stroke="#60a5fa" stroke-width="0.7"/>
+    <text x="23" y="14" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#60a5fa">Python</text>
+    <rect x="52" y="0" width="48" height="20" rx="4" fill="#100a28" stroke="#a78bfa" stroke-width="0.7"/>
+    <text x="76" y="14" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#a78bfa">Django</text>
+    <rect x="106" y="0" width="54" height="20" rx="4" fill="#001428" stroke="#34d399" stroke-width="0.7"/>
+    <text x="133" y="14" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#34d399">PostgreSQL</text>
+    <rect x="166" y="0" width="44" height="20" rx="4" fill="#001014" stroke="#34d399" stroke-width="0.7"/>
+    <text x="188" y="14" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#34d399">Redis</text>
+    <rect x="216" y="0" width="44" height="20" rx="4" fill="#100028" stroke="#818cf8" stroke-width="0.7"/>
+    <text x="238" y="14" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#818cf8">Docker</text>
+    <rect x="266" y="0" width="38" height="20" rx="4" fill="#0a0a20" stroke="#818cf8" stroke-width="0.7"/>
+    <text x="285" y="14" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#818cf8">Linux</text>
+  </g>
+
+  <!-- Bottom decorative line -->
+  <line x1="70" y1="345" x2="400" y2="345" stroke="url(#lineGrad)" stroke-width="0.5" opacity="0.5"/>
+
+  <!-- Footer text -->
+  <text x="230" y="370" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#4a3880" letter-spacing="2">◈ 2077 · NIGHT CITY NEVER SLEEPS · 2077 ◈</text>
+
+  <!-- ═══════════════ RIGHT PANEL ═══════════════ -->
+
+  <!-- Section header -->
+  <text x="510" y="52" font-family="'Courier New', monospace" font-size="10" fill="#7c3aed" letter-spacing="3">// SKILL_MATRIX.exe</text>
+  <rect x="510" y="58" width="360" height="0.5" fill="url(#lineGrad)" opacity="0.5"/>
+
+  <!-- Skill bars -->
+  <!-- Python -->
+  <text x="510" y="84" font-family="'Courier New', monospace" font-size="11" fill="#60a5fa" letter-spacing="1">PYTHON</text>
+  <text x="855" y="84" text-anchor="end" font-family="'Courier New', monospace" font-size="10" fill="#a78bfa">999 ◈</text>
+  <rect x="510" y="90" width="345" height="7" rx="3" fill="#0a0520"/>
+  <rect x="510" y="90" width="345" height="7" rx="3" fill="url(#bar-py)" opacity="0.9"/>
+
+  <!-- Django -->
+  <text x="510" y="116" font-family="'Courier New', monospace" font-size="11" fill="#f472b6" letter-spacing="1">DJANGO</text>
+  <text x="855" y="116" text-anchor="end" font-family="'Courier New', monospace" font-size="10" fill="#a78bfa">92 ◈</text>
+  <rect x="510" y="122" width="345" height="7" rx="3" fill="#0a0520"/>
+  <rect x="510" y="122" width="318" height="7" rx="3" fill="url(#bar-dj)" opacity="0.9"/>
+
+  <!-- PostgreSQL -->
+  <text x="510" y="148" font-family="'Courier New', monospace" font-size="11" fill="#34d399" letter-spacing="1">POSTGRESQL</text>
+  <text x="855" y="148" text-anchor="end" font-family="'Courier New', monospace" font-size="10" fill="#a78bfa">85 ◈</text>
+  <rect x="510" y="154" width="345" height="7" rx="3" fill="#0a0520"/>
+  <rect x="510" y="154" width="294" height="7" rx="3" fill="url(#bar-pg)" opacity="0.9"/>
+
+  <!-- Flask -->
+  <text x="510" y="180" font-family="'Courier New', monospace" font-size="11" fill="#fb923c" letter-spacing="1">FLASK</text>
+  <text x="855" y="180" text-anchor="end" font-family="'Courier New', monospace" font-size="10" fill="#a78bfa">78 ◈</text>
+  <rect x="510" y="186" width="345" height="7" rx="3" fill="#0a0520"/>
+  <rect x="510" y="186" width="270" height="7" rx="3" fill="url(#bar-fl)" opacity="0.9"/>
+
+  <!-- HTML/CSS -->
+  <text x="510" y="212" font-family="'Courier New', monospace" font-size="11" fill="#60a5fa" letter-spacing="1">HTML5 / CSS3</text>
+  <text x="855" y="212" text-anchor="end" font-family="'Courier New', monospace" font-size="10" fill="#a78bfa">82 ◈</text>
+  <rect x="510" y="218" width="345" height="7" rx="3" fill="#0a0520"/>
+  <rect x="510" y="218" width="284" height="7" rx="3" fill="url(#bar-py)" opacity="0.7"/>
+
+  <!-- Docker -->
+  <text x="510" y="244" font-family="'Courier New', monospace" font-size="11" fill="#818cf8" letter-spacing="1">DOCKER</text>
+  <text x="855" y="244" text-anchor="end" font-family="'Courier New', monospace" font-size="10" fill="#a78bfa">68 ◈</text>
+  <rect x="510" y="250" width="345" height="7" rx="3" fill="#0a0520"/>
+  <rect x="510" y="250" width="235" height="7" rx="3" fill="url(#bar-dk)" opacity="0.9"/>
+
+  <!-- Linux -->
+  <text x="510" y="276" font-family="'Courier New', monospace" font-size="11" fill="#818cf8" letter-spacing="1">LINUX</text>
+  <text x="855" y="276" text-anchor="end" font-family="'Courier New', monospace" font-size="10" fill="#a78bfa">75 ◈</text>
+  <rect x="510" y="282" width="345" height="7" rx="3" fill="#0a0520"/>
+  <rect x="510" y="282" width="260" height="7" rx="3" fill="url(#bar-dk)" opacity="0.8"/>
+
+  <!-- Redis -->
+  <text x="510" y="308" font-family="'Courier New', monospace" font-size="11" fill="#34d399" letter-spacing="1">REDIS</text>
+  <text x="855" y="308" text-anchor="end" font-family="'Courier New', monospace" font-size="10" fill="#a78bfa">72 ◈</text>
+  <rect x="510" y="314" width="345" height="7" rx="3" fill="#0a0520"/>
+  <rect x="510" y="314" width="249" height="7" rx="3" fill="url(#bar-pg)" opacity="0.8"/>
+
+  <!-- Divider -->
+  <rect x="510" y="336" width="345" height="0.5" fill="url(#lineGrad)" opacity="0.4"/>
+
+  <!-- Bottom stats boxes -->
+  <g transform="translate(510, 350)">
+    <!-- Commits -->
+    <rect x="0" y="0" width="100" height="44" rx="6" fill="#04021a" stroke="#7c3aed" stroke-width="0.7"/>
+    <text x="50" y="16" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#7c3aed" letter-spacing="1">COMMITS</text>
+    <text x="50" y="34" text-anchor="middle" font-family="'Courier New', monospace" font-size="18" fill="#a78bfa" font-weight="bold">∞</text>
+    <!-- Stars -->
+    <rect x="108" y="0" width="100" height="44" rx="6" fill="#04021a" stroke="#f472b6" stroke-width="0.7"/>
+    <text x="158" y="16" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#f472b6" letter-spacing="1">LOCATION</text>
+    <text x="158" y="34" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#f9a8d4">🌍 UZ</text>
+    <!-- Repos -->
+    <rect x="216" y="0" width="130" height="44" rx="6" fill="#04021a" stroke="#34d399" stroke-width="0.7"/>
+    <text x="281" y="16" text-anchor="middle" font-family="'Courier New', monospace" font-size="8" fill="#34d399" letter-spacing="1">MISSION STATUS</text>
+    <text x="281" y="34" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#6ee7b7">BUILDING 🚀</text>
+  </g>
+
+  <!-- Shooting star animation -->
+  <line x1="-20" y1="60" x2="20" y2="55" stroke="#ffffff" stroke-width="1.5" opacity="0.7" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="translate" from="0,0" to="950,180" dur="4s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="opacity" from="0.8" to="0" dur="4s" repeatCount="indefinite" begin="1s"/>
+  </line>
+  <line x1="-20" y1="60" x2="40" y2="58" stroke="#a78bfa" stroke-width="1" opacity="0.5" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="translate" from="0,0" to="950,180" dur="4s" repeatCount="indefinite" begin="1s"/>
+    <animate attributeName="opacity" from="0.5" to="0" dur="4s" repeatCount="indefinite" begin="1s"/>
+  </line>
+
+  <!-- Second shooting star -->
+  <line x1="-20" y1="300" x2="20" y2="295" stroke="#60a5fa" stroke-width="1.2" opacity="0.6" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="translate" from="0,0" to="950,-80" dur="5s" repeatCount="indefinite" begin="6s"/>
+    <animate attributeName="opacity" from="0.7" to="0" dur="5s" repeatCount="indefinite" begin="6s"/>
+  </line>
+
+  <!-- Blinking cursor -->
+  <rect x="388" y="368" width="7" height="12" fill="#a78bfa">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
