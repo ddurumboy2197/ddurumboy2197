@@ -1,1 +1,15 @@
+name: Tic Tac Toe
 
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Wei-J-Huang/README-Tic-Tac-Toe@main
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
