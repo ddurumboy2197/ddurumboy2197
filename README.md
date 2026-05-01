@@ -81,7 +81,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddurumboy2197&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=5" width="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddurumboy2197&layout=compact&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=6" width="250"/>
 
 </td>
 </tr>
@@ -193,7 +193,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ddurumboy2197&theme=tokyonight&hide_border=true&background=04021a&ring=7c3aed&fire=f472b6&currStreakLabel=a78bfa&sideLabels=60a5fa&dates=4a3880&stroke=1e0a42&border_radius=12" alt="Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=ddurumboy2197&theme=tokyonight&hide_border=true&background=04021a&ring=7c3aed&fire=f472b6&currStreakLabel=a78bfa&sideLabels=60a5fa&dates=4a3880&stroke=1e0a42&border_radius=12" alt="Streak Stats"/>
 
 </div>
 
@@ -201,9 +201,9 @@
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=ddurumboy2197&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&icon_color=60a5fa&text_color=e2e8f0&border_radius=12&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=ddurumboy2197&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&icon_color=60a5fa&text_color=e2e8f0&border_radius=12&include_all_commits=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddurumboy2197&layout=compact&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=8" alt="Top Languages"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddurumboy2197&layout=compact&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=8" alt="Top Languages"/>
 
 </div>
 
