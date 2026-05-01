@@ -1,5 +1,5 @@
 <!-- ╔══════════════════════════════════════════════════════╗ -->
-<!-- ║   DURUMBOY — Ultimate GitHub Profile README v3.0    ║ -->
+<!-- ║   DURUMBOY — Ultimate GitHub Profile README v4.0    ║ -->
 <!-- ║   Made with 💜 & ☕ from Xorazm-01, Uzbekistan      ║ -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
@@ -72,7 +72,7 @@
 | ☕ | Coffee → Code → `git commit` → `git push` → Repeat |
 | 🌙 | 3AM debugging sessiyalari — bu mening superkuchim |
 | 🌍 | Xorazm, Uzbekistan 🇺🇿 |
-| 📬 | ddurumboy2197@gmail.com |
+| 📬 | durumboyev07@gmail.com |
 
 </td>
 <td width="48%" align="center" valign="top">
@@ -201,7 +201,7 @@
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=ddurumboy2197&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&icon_color=60a5fa&text_color=e2e8f0&border_radius=12&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,prs_merged" alt="GitHub Stats"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=ddurumboy2197&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&icon_color=60a5fa&text_color=e2e8f0&border_radius=12&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats"/>
 &nbsp;
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddurumboy2197&layout=compact&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=8" alt="Top Languages"/>
 
@@ -225,7 +225,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ddurumboy2197&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ddurumboy2197&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -312,24 +312,6 @@
 
 ---
 
-## ⏱️ &nbsp;`wakatime --weekly-report`
-
-<br/>
-
-<div align="center">
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=durumboy&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&layout=compact&langs_count=6)](https://wakatime.com/@durumboy)
-
-</div>
-
-<div align="center">
-<sub><i>⚙️ Real-time tracking uchun → <a href="https://wakatime.com">wakatime.com</a> ga ulanib, VS Code extension o'rnating</i></sub>
-</div>
-
-<br/>
-
----
-
 ## 📅 &nbsp;`git log --journey --oneline`
 
 <br/>
@@ -366,41 +348,105 @@
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="220">
 
 ### 🔵 SOLID
 
-**S** — Single Responsibility
-**O** — Open/Closed
-**L** — Liskov Substitution
-**I** — Interface Segregation
+**S** — Single Responsibility<br/>
+**O** — Open/Closed<br/>
+**L** — Liskov Substitution<br/>
+**I** — Interface Segregation<br/>
 **D** — Dependency Inversion
 
 </td>
-<td align="center" width="200">
+<td align="center" width="220">
 
 ### 🟣 Clean Code
 
-**DRY** — Don't Repeat Yourself
-**KISS** — Keep It Simple
-**YAGNI** — You Ain't Gonna Need It
-**TDD** — Test Driven Dev
+**DRY** — Don't Repeat Yourself<br/>
+**KISS** — Keep It Simple<br/>
+**YAGNI** — You Ain't Gonna Need It<br/>
+**TDD** — Test Driven Dev<br/>
 **CR** — Code Review always
 
 </td>
-<td align="center" width="200">
+<td align="center" width="220">
 
 ### 🟢 My Rules
 
-**☕** — Coffee before code
-**🧪** — Test everything
-**📖** — Docs matters
-**🔒** — Security first
+**☕** — Coffee before code<br/>
+**🧪** — Test everything<br/>
+**📖** — Docs matters<br/>
+**🔒** — Security first<br/>
 **🚀** — Ship it fast
 
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
+
+---
+
+## 🐍 &nbsp;`contributions --snake`
+
+<br/>
+
+> ⚠️ **Snake animatsiyasini yoqish uchun quyidagi GitHub Actions workflow'ni o'rnating:**
+
+<details>
+<summary>⚙️ &nbsp;<b>1-qadam — `.github/workflows/snake.yml` fayl yarating (bosing)</b></summary>
+
+<br/>
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Keyin:** GitHub repo → Actions → "Generate Snake Animation" → **Run workflow** bosing.
+
+</details>
+
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddurumboy2197/ddurumboy2197/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ddurumboy2197/ddurumboy2197/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ddurumboy2197/ddurumboy2197/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -448,7 +494,7 @@
   <img src="https://img.shields.io/badge/Telegram-@durumboy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:ddurumboy2197@gmail.com">
+<a href="mailto:durumboyev07@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
@@ -463,67 +509,6 @@
 <img src="https://img.shields.io/github/stars/ddurumboy2197?style=for-the-badge&logo=github&color=f472b6&label=TOTAL+STARS&labelColor=04021a"/>
 &nbsp;
 <img src="https://img.shields.io/badge/OPEN_TO-Work_%26_Collabs-34d399?style=for-the-badge&labelColor=04021a"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### 🐍 &nbsp;My Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddurumboy2197/ddurumboy2197/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ddurumboy2197/ddurumboy2197/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ddurumboy2197/ddurumboy2197/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-<sub><i>🐍 Snake animatsiyasi uchun GitHub Actions sozlash kerak — pastdagi yo'riqnomaga qarang</i></sub>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<details>
-<summary>⚙️ <b>Snake animatsiyasini yoqish (bosing)</b></summary>
-
-<br/>
-
-`.github/workflows/snake.yml` faylini yarating:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ddurumboy2197
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 </div>
 
