@@ -425,6 +425,14 @@
 
 ---
 
+## 🐍 &nbsp;`git log --contributions`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ddurumboy2197/ddurumboy2197/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
 ## 💬 &nbsp;`wisdom --random`
 
 <br/>
