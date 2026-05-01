@@ -28,7 +28,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/🎯_MISSION-Building_Epic_APIs-04021a?style=for-the-badge&labelColor=6b21a8"/>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=durumboyev07&style=for-the-badge&color=7c3aed&label=👁+PROFILE+VIEWS&labelColor=04021a"/>
+  <img src="https://komarev.com/ghpvc/?username=ddurumboy2197&style=for-the-badge&color=7c3aed&label=👁+PROFILE+VIEWS&labelColor=04021a"/>
 </div>
 
 <br/>
@@ -72,7 +72,7 @@
 | ☕ | Coffee → Code → `git commit` → `git push` → Repeat |
 | 🌙 | 3AM debugging sessiyalari — bu mening superkuchim |
 | 🌍 | Xorazm, Uzbekistan 🇺🇿 |
-| 📬 | durumboyev07@gmail.com |
+| 📬 | ddurumboy2197@gmail.com |
 
 </td>
 <td width="48%" align="center" valign="top">
@@ -81,7 +81,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durumboyev07&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=5" width="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddurumboy2197&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=5" width="200"/>
 
 </td>
 </tr>
@@ -193,7 +193,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=durumboyev07&theme=tokyonight&hide_border=true&background=04021a&ring=7c3aed&fire=f472b6&currStreakLabel=a78bfa&sideLabels=60a5fa&dates=4a3880&stroke=1e0a42&border_radius=12" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ddurumboy2197&theme=tokyonight&hide_border=true&background=04021a&ring=7c3aed&fire=f472b6&currStreakLabel=a78bfa&sideLabels=60a5fa&dates=4a3880&stroke=1e0a42&border_radius=12" alt="Streak Stats"/>
 
 </div>
 
@@ -201,9 +201,9 @@
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=durumboyev07&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&icon_color=60a5fa&text_color=e2e8f0&border_radius=12&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,prs_merged" alt="GitHub Stats"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=ddurumboy2197&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&icon_color=60a5fa&text_color=e2e8f0&border_radius=12&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started,prs_merged" alt="GitHub Stats"/>
 &nbsp;
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durumboyev07&layout=compact&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=8" alt="Top Languages"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddurumboy2197&layout=compact&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -211,7 +211,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=durumboyev07&theme=tokyo-night&hide_border=true&bg_color=04021a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=1e0a42&radius=8)](https://github.com/durumboyev07)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ddurumboy2197&theme=tokyo-night&hide_border=true&bg_color=04021a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=1e0a42&radius=8)](https://github.com/ddurumboy2197)
 
 </div>
 
@@ -225,7 +225,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=durumboyev07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ddurumboy2197&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -440,27 +440,27 @@
 
 <div align="center">
 
-<a href="https://github.com/durumboyev07">
-  <img src="https://img.shields.io/badge/GitHub-durumboyev07-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ddurumboy2197">
+  <img src="https://img.shields.io/badge/GitHub-ddurumboy2197-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://t.me/durumboy">
   <img src="https://img.shields.io/badge/Telegram-@durumboy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:durumboyev07@gmail.com">
+<a href="mailto:ddurumboy2197@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/durumboyev07">
+<a href="https://linkedin.com/in/ddurumboy2197">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/durumboyev07?style=for-the-badge&logo=github&color=a78bfa&label=FOLLOWERS&labelColor=04021a"/>
+<img src="https://img.shields.io/github/followers/ddurumboy2197?style=for-the-badge&logo=github&color=a78bfa&label=FOLLOWERS&labelColor=04021a"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/durumboyev07?style=for-the-badge&logo=github&color=f472b6&label=TOTAL+STARS&labelColor=04021a"/>
+<img src="https://img.shields.io/github/stars/ddurumboy2197?style=for-the-badge&logo=github&color=f472b6&label=TOTAL+STARS&labelColor=04021a"/>
 &nbsp;
 <img src="https://img.shields.io/badge/OPEN_TO-Work_%26_Collabs-34d399?style=for-the-badge&labelColor=04021a"/>
 
@@ -475,9 +475,9 @@
 ### 🐍 &nbsp;My Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/durumboyev07/durumboyev07/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/durumboyev07/durumboyev07/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/durumboyev07/durumboyev07/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddurumboy2197/ddurumboy2197/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ddurumboy2197/ddurumboy2197/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ddurumboy2197/ddurumboy2197/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 <sub><i>🐍 Snake animatsiyasi uchun GitHub Actions sozlash kerak — pastdagi yo'riqnomaga qarang</i></sub>
@@ -511,7 +511,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: durumboyev07
+          github_user_name: ddurumboy2197
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -539,5 +539,5 @@ jobs:
 
 <!-- ╔══════════════════════════════════════════════════════╗ -->
 <!-- ║  Made with 💜, ☕ and 3AM debugging from Xorazm-01  ║ -->
-<!-- ║  github.com/durumboyev07                            ║ -->
+<!-- ║  github.com/ddurumboy2197                            ║ -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
