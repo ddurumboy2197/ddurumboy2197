@@ -81,7 +81,12 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddurumboy2197&layout=compact&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=6" width="250"/>
+![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-85%25-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-80%25-316192?style=flat-square&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-70%25-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-65%25-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-60%25-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </td>
 </tr>
@@ -191,29 +196,25 @@
 
 <br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ddurumboy2197&theme=tokyonight&hide_border=true&background=04021a&ring=7c3aed&fire=f472b6&currStreakLabel=a78bfa&sideLabels=60a5fa&dates=4a3880&stroke=1e0a42&border_radius=12" alt="Streak Stats"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ddurumboy2197&theme=tokyonight&hide_border=true&background=04021a&ring=7c3aed&fire=f472b6&currStreakLabel=a78bfa&sideLabels=60a5fa&dates=4a3880&stroke=1e0a42&border_radius=12" alt="Streak Stats"/>
+</p>
 
 <br/>
 
-<div align="center">
-
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=ddurumboy2197&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&icon_color=60a5fa&text_color=e2e8f0&border_radius=12&include_all_commits=true" alt="GitHub Stats"/>
-&nbsp;
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddurumboy2197&layout=compact&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=8" alt="Top Languages"/>
-
-</div>
+<p align="center">
+  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ddurumboy2197&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&icon_color=60a5fa&text_color=e2e8f0&border_radius=12&include_all_commits=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="185" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ddurumboy2197&layout=compact&theme=tokyonight&hide_border=true&bg_color=04021a&title_color=a78bfa&text_color=e2e8f0&border_radius=12&langs_count=8" alt="Top Languages"/>
+</p>
 
 <br/>
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ddurumboy2197&theme=tokyo-night&hide_border=true&bg_color=04021a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=1e0a42&radius=8)](https://github.com/ddurumboy2197)
-
-</div>
+<p align="center">
+  <a href="https://github.com/ddurumboy2197">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ddurumboy2197&theme=tokyo-night&hide_border=true&bg_color=04021a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=1e0a42&radius=8" alt="Activity Graph"/>
+  </a>
+</p>
 
 <br/>
 
