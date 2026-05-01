@@ -390,63 +390,33 @@
 
 ---
 
-## 🐍 &nbsp;`contributions --snake`
-
-<br/>
-
-> ⚠️ **Snake animatsiyasini yoqish uchun quyidagi GitHub Actions workflow'ni o'rnating:**
-
-<details>
-<summary>⚙️ &nbsp;<b>1-qadam — `.github/workflows/snake.yml` fayl yarating (bosing)</b></summary>
-
-<br/>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches: [main]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push animation to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Keyin:** GitHub repo → Actions → "Generate Snake Animation" → **Run workflow** bosing.
-
-</details>
+## 📊 &nbsp;`contributions --calendar`
 
 <br/>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddurumboy2197/ddurumboy2197/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ddurumboy2197/ddurumboy2197/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ddurumboy2197/ddurumboy2197/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ddurumboy2197&bg_color=04021a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=1e0a42&hide_border=true&radius=8&custom_title=Durumboy%27s%20Contribution%20Graph)](https://github.com/ddurumboy2197)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddurumboy2197&theme=tokyonight" width="100%" alt="Profile Summary"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddurumboy2197&theme=tokyonight" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddurumboy2197&theme=tokyonight" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddurumboy2197&theme=tokyonight" width="32%"/>
 
 </div>
 
