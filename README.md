@@ -220,20 +220,6 @@
 
 ---
 
-## 🏆 &nbsp;`trophies --showcase`
-
-<br/>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ddurumboy2197&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
----
-
 ## 🎯 &nbsp;`mission_control --live-status`
 
 <br/>
